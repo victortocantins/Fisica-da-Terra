@@ -16,6 +16,7 @@ Física da Terra
    :caption: Conteúdo:
 
    ./content/geofisica/index
+   ./content/gravidade/index
    ./content/referencias
 
 Indices e tabelas
