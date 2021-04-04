@@ -16,10 +16,12 @@ Física da Terra
    :caption: Conteúdo:
 
    ./content/geofisica/index
-   ./content/gravidade/index
+   ./content/terra/index
+   ./content/gravitacao/index
+   ./content/metodos_grav/index
    ./content/referencias
 
-Indices e tabelas
+Índices e tabelas
 =================
 
 * :ref:`genindex`
