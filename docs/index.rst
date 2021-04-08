@@ -20,6 +20,7 @@ Física da Terra
    ./content/gravitacao/index
    ./content/metodos_grav/index
    ./content/referencias
+   ./content/apps
 
 Índices e tabelas
 =================

@@ -66,5 +66,52 @@ As cores nesta imagem representam as anomalias da gravidade medidas pelo GRACE. 
 	:figwidth: 50 %
 	:name: fig_GRACE_globe
 	
-	Distribuiçao da aceleração graviatcional na Terra.
+	Distribuiçao da aceleração gravitacional na Terra.
+
+Para se ter uma comparação do nosso planeta em relação aos outros planetas do sistema Solar, seus tamanhos relativos são mostrados na :numref:`fig_planetas`. 
+Eles formam três categorias com base em suas propriedades físicas (Tabela a seguir). Os planetas terrestres (Mercúrio, Vênus, Terra e Marte) se assemelham à Terra em tamanho e densidade. Eles têm uma composição sólida e rochosa e eles giram em torno de seus próprios eixos na mesma taxa ou mais devagar do que a Terra. Os grandes planetas, ou Júpiter, (Júpiter, Saturno, Urano e Netuno) são muito maiores do que o Terra e têm densidades muito mais baixas. Suas composições são amplamente gasosas e giram mais rapidamente do que a Terra. A grande órbita de Plutão é altamente elíptica e muito mais  mais inclinada para a eclíptica do que qualquer outro planeta. Suas propriedades físicas são diferentes de ambos os grandes planetas e os planetas terrestres. Estes nove corpos são chamados de planetas principais. Existem outros objetos grandes em órbita ao redor do Sol, chamados planetas menores, que não cumprem os critérios comuns para a definição do planetas principais. A descoberta de grandes objetos no sistema solar além da órbita de Netuno estimulou debate entre os astrônomos sobre quais são esses critérios. Como resultado, Plutão foi reclassificado como um "planeta anão." Na próxima seção estudaremos a gravitação e a gravidade, e essa características dos planetas servem de parâmetros para efeito de comparação da aceleração da gravidade em outros corpos do sistema Solar.
+
+.. _table-1:
+
++---------+-----------------------+-------------------+---------------------+----------------+---------------+------------------+--------------------+
+| Planeta | Massa                 | Massa             | Densidade média     | Raio           | Período de    | Achatamento      | Obliquidade de     |
+|         | M [:math:`10^{24}` kg]| relativa a Terra  | [kg m :math:`^{-3}`]| equatorial [km]| rotação       | polar            | do eixo de rotação |
+|         |                       |                   |                     |                | sideral [dias]| :math:`f=(a-c)/a`| :math:`[^\circ]`   |
++=========+=======================+===================+=====================+================+===============+==================+====================+
+| Planetas terrestre e a Lua                                                                                                                         |
++---------+-----------------------+-------------------+---------------------+----------------+---------------+------------------+--------------------+
+| Mercúrio| 0.3302                | 0.0553            | 5,427               | 2,440          |  58.81        | 0.0              | 0.1                | 
++---------+-----------------------+-------------------+---------------------+----------------+---------------+------------------+--------------------+
+| Vênus   |        4.869          | 0.815             | 5,243               | 6,052          |  243.7        | 0.0              | 177.4              | 
++---------+-----------------------+-------------------+---------------------+----------------+---------------+------------------+--------------------+
+| Terra   |        5.974          | 1.000             | 5,515               | 6,378          |  0.9973       | 0.03353          | 23.45              | 
++---------+-----------------------+-------------------+---------------------+----------------+---------------+------------------+--------------------+
+| Lua     |        0.0735         | 0.0123            | 3,347               | 1,738          |  27.32        | 0.0012           | 6.68               | 
++---------+-----------------------+-------------------+---------------------+----------------+---------------+------------------+--------------------+
+| Grandes planetas e Plutão                                                                                                                          |
++---------+-----------------------+-------------------+---------------------+----------------+---------------+------------------+--------------------+
+| Jupiter |        1,899          | 317.8             | 1,326               | 71,492         |  0.414        | 0.0649           | 3.12               | 
++---------+-----------------------+-------------------+---------------------+----------------+---------------+------------------+--------------------+
+| Saturno |       568.5           | 95.2              | 687                 | 60,268         |  0.444        | 0.098            | 26.73              | 
++---------+-----------------------+-------------------+---------------------+----------------+---------------+------------------+--------------------+
+| Urano   |        86.8           | 14.4              | 1,270               | 25,559         |  0.720        | 0.023            | 97.86              |
++---------+-----------------------+-------------------+---------------------+----------------+---------------+------------------+--------------------+
+| Netuno  |       102.4           | 17.15             | 1,638               | 24,766         |  0.671        | 0.017            | 29.6               |
++---------+-----------------------+-------------------+---------------------+----------------+---------------+------------------+--------------------+
+| Plutão  |       0.125           | 0.0021            | 1,750               | 1,195          |  6.405        | :math:`--`       | 122.5              |
++---------+-----------------------+-------------------+---------------------+----------------+---------------+------------------+--------------------+
+
+.. figure:: ./images/Fig_01.png
+    :align: center
+    :figwidth: 100 %
+    :name: fig_planetas
+
+    Os tamanhos relativos dos planetas: (a) os planetas terrestres,
+    (b) os grandes planetas (Júpiter) e (c) Plutão, que é diminuto em comparação com
+    os outros.
+
+
+
+
+
 	
