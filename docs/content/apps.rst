@@ -15,9 +15,11 @@ FT Apps
 
 - :ref:`Binder <binder>` (livre, nenhum login requerido)
 
-Como alternativa, eles podem ser baixados do GitHub e executados localmente da página
+Como alternativa, eles podem ser baixados do GitHub na página https://github.com/victortocantins/ft-notebooks e executados localmente
 
-`ft-notebooks <https://github.com/victortocantins/ft-notebooks>`_.
+ou
+
+clicando em  `ft-notebooks <https://github.com/victortocantins/ft-notebooks>`_ e fazendo download
 
 .. _binder:
 

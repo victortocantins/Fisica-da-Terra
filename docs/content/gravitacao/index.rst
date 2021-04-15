@@ -42,7 +42,7 @@ A lei da conservação de energia significa que a energia total a em um sistema 
 
 Por exemplo, quando a maçã de Newton está na árvore, ela tem uma energia potencial mais alta do que quando está no chão. Ela cai devido à força descendente da gravidade e perde energia potencial ao fazê-lo. Para calcular a variação da energia potencial precisamos elevar a maçã à sua posição original. Isso requer que apliquemos uma força igual e oposta à atração gravitacional na maçã e, devido esta força ser movida ao longo da distância em que a  maçã caiu, nós temos que gastar energia em forma de trabalho. E se a altura original da maçã acima do nível do solo era :math:`h` e o valor da força exercida pela gravidade na maçã é :math:`F`, a força que devemos aplicar para colocá-lo de volta é :math:`(-F)`. Assumindo que :math:`F` é constante através da curta distância de sua queda, o trabalho despendido é :math:`(-F) h`. Este é o aumento da energia potencial da maçã, quando está na árvore.
 
-Mais geralmente, se a força constante :math:`F` se move através uma pequena distância :math:`dr` na mesma direção que a força, o trabalho feito é :math:`dW= Fdr` e a variação na energia potencial :math:`dE_p` é dada por
+Mas geralmente, se a força constante :math:`F` se move através uma pequena distância :math:`dr` na mesma direção que a força, o trabalho feito é :math:`dW= Fdr` e a variação na energia potencial :math:`dE_p` é dada por
 
 .. math::
     dE_p = -dW = -Fdr.
