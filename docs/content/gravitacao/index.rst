@@ -24,14 +24,17 @@ Nós conhecemos a célebre observação de Newton da maçã em queda, a qual ele
 
 Onde :math:`\hat{\mathbf{r}}` é o vetor unitário na direção da coordenada :math:`r`, direcionada para fora do centro de referência da massa :math:`M`. O sinal negativo indica que a força :math:`\mathbf{F}` age na direção oposta, em direção da massa :math:`M` (:numref:`geometria_lei_grav`). A constante :math:`G` é denominada de Constante da Gravitação Universal.
 
-Na época de Newton não havia como determinar a constante :math:`G`. O método a ser seguido, seria determinar a força exercida entre duas massas no laboratório. A determinação experimental de :math:`G`, é extremamente difícil e foi conseguida somente depois de mais de um século após a formulação de Newton, por Lord Charles Cavendish, em 1798. Depois de uma série de medidas apuradas da força de atração entre duas esferas, Cavendish determinou o valor de :math:`G = 6,754 \times 10^{-11} \mathrm{m}^3 \mathrm{kg}^{-1}\mathrm{s}^{-2}`. Um valor atual da constante (:cite:`RevModPhys.77.1`) :math:`G` é :math:`6,674210 \times 10^{-11} \mathrm{m}^3 \mathrm{kg}^{-1}\mathrm{s}^{-2}`.
-
-
 .. raw:: html
 
     <iframe src="https://phet.colorado.edu/sims/html/gravity-force-lab/latest/gravity-force-lab_en.html" width="700" height="600" scrolling="no" allowfullscreen></iframe>
 
-    
+
+Na época de Newton não havia como determinar a constante :math:`G`. O método a ser seguido, seria determinar a força exercida entre duas massas no laboratório. A determinação experimental de :math:`G`, é extremamente difícil e foi conseguida somente depois de mais de um século após a formulação de Newton, por Lord Charles Cavendish, em 1798. Depois de uma série de medidas apuradas da força de atração entre duas esferas, Cavendish determinou o valor de :math:`G = 6,754 \times 10^{-11} \mathrm{m}^3 \mathrm{kg}^{-1}\mathrm{s}^{-2}`. Um valor atual da constante (:cite:`RevModPhys.77.1`) :math:`G` é :math:`6,674210 \times 10^{-11} \mathrm{m}^3 \mathrm{kg}^{-1}\mathrm{s}^{-2}`.
+
+
+
+
+
 .. sidebar:: Geometria da atração gravitacional
 
     .. figure:: ./images/Fig_02.04.png
