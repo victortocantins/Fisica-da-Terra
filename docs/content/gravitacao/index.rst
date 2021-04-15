@@ -26,6 +26,12 @@ Onde :math:`\hat{\mathbf{r}}` é o vetor unitário na direção da coordenada :m
 
 Na época de Newton não havia como determinar a constante :math:`G`. O método a ser seguido, seria determinar a força exercida entre duas massas no laboratório. A determinação experimental de :math:`G`, é extremamente difícil e foi conseguida somente depois de mais de um século após a formulação de Newton, por Lord Charles Cavendish, em 1798. Depois de uma série de medidas apuradas da força de atração entre duas esferas, Cavendish determinou o valor de :math:`G = 6,754 \times 10^{-11} \mathrm{m}^3 \mathrm{kg}^{-1}\mathrm{s}^{-2}`. Um valor atual da constante (:cite:`RevModPhys.77.1`) :math:`G` é :math:`6,674210 \times 10^{-11} \mathrm{m}^3 \mathrm{kg}^{-1}\mathrm{s}^{-2}`.
 
+
+.. raw:: html
+
+    <iframe src="https://phet.colorado.edu/sims/html/gravity-force-lab/latest/gravity-force-lab_en.html" width="700" height="600" scrolling="no" allowfullscreen></iframe>
+
+    
 .. sidebar:: Geometria da atração gravitacional
 
     .. figure:: ./images/Fig_02.04.png
@@ -70,6 +76,14 @@ Em aplicações geofísicas, estamos preocupados com acelerações, e não com f
     :label: acel_G
 
 A unidade de aceleração do SI é o :math:`(\mathrm{m}\mathrm{s}^{-2})`; esta unidade é impraticável para uso em geofísica. No agora superado sistema c.g.s.  a unidade de aceleração é de :math:`(\mathrm{cm}\,\mathrm{s}^{-2})`, que é chamado de gal em reconhecimento das contribuições de Galileo. As pequenas mudanças na aceleração da gravidade causadas pelas estruturas geológicas são medidas em milésimos desta unidade, ou seja, em miligramas (mgal). Até recentemente, anomalias de gravidade devido a estruturas geológicas foram pesquisadas com instrumentos de campo com precisão de cerca de um décimo de miligal, o que foi chamado de **unidade de gravidade**. Instrumentos modernos são capazes de medir diferenças de gravidade para um milionésimo de gal, ou microgal :math:`(\mu gal)`, que está se tornando a unidade prática de investigações de gravidade. O valor da gravidade na superfície da Terra é de cerca de :math:`9.8\, \mathrm{m}\mathrm{s}^{-2}`, e assim a sensibilidade das medições modernas da gravidade é de cerca de 1 parte em :math:`10^9`.
+
+Uma idéia das acelerações gravitacionais entre o sistema Sol, Terra, Lua e um satélite é apresentado pela simulação a seguir 
+
+.. raw:: html
+
+    <iframe src="https://phet.colorado.edu/sims/html/gravity-and-orbits/latest/gravity-and-orbits_en.html" width="700" height="600" scrolling="no" allowfullscreen></iframe>
+
+
 
 Potencial Gravitacional
 -----------------------
