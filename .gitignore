@@ -3,7 +3,7 @@ __pycache__/
 papers/
 mapa-mental/
 FOG-3Ed/
-apps/
+apps-dev/
 
 # Sphinx
 docs/_build/
