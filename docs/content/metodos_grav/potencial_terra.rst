@@ -6,7 +6,7 @@ Potencial Gravitacional da Terra Esferoidal
 A forma elipsoidal muda o potencial gravitacional da Terra de uma esfera não deformada. Em 1849, J. MacCullagh desenvolveu a seguinte fórmula para o potencial gravitacional de qualquer corpo a grande distância de seu centro de massa:
 
 .. math::
-    U_{\mathrm{G}}=-G \frac{E}{r}-G \frac{(A+B+C-3 I)}{2 r^{3}}-\cdots (\#eq:0220)
+    U_{\mathrm{G}}=-G \frac{E}{r}-G \frac{(A+B+C-3 I)}{2 r^{3}}-\cdots
     :label: pot_MacCullagh
 
 O primeiro termo, de ordem :math:`r^{-1}`, é o potencial gravitacional de um ponto de massa ou esfera com massa :math:`E` (Equações :eq:`potencialU` e 

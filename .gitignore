@@ -1,7 +1,9 @@
 # Directories
 __pycache__/
-artigos/
+papers/
 mapa-mental/
+FOG-3Ed/
+apps/
 
 # Sphinx
 docs/_build/
