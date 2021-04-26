@@ -4,6 +4,8 @@ papers/
 mapa-mental/
 FOG-3Ed/
 apps-dev/
+apps/
+draws/
 
 # Sphinx
 docs/_build/

@@ -84,8 +84,6 @@ O termo de próxima ordem superior :math:`(n=3)` na Equação :eq:`eq:0225` desc
     que são da ordem de 7 a 14 km.
 
 
-
-
 O Potencial Centrífugo
 ----------------------
 
@@ -118,8 +116,6 @@ A equação para o potencial centrífugo em termos de ângulo polar :math:`\thet
 
 .. math::
     U_{\mathrm{c}}=-\frac{1}{2} \omega^{2} x^{2}=-\frac{1}{2} \omega^{2} r^{2} \sin ^{2} \theta
-
-
 
 
 

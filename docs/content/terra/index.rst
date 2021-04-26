@@ -1,12 +1,12 @@
 .. _Terra_index:
 
 A Fígura da Terra
-===========================
+-----------------
 Neste capítulo seguimos o livro de :cite:`lowrie_2007`, apresentaremos o conceito de gravidade, anomalias gravimétricas, 
 isostasia e reologia que são importantes tanto na geofísica global quanto na geofísica aplicada aos métodos gravimétricos.
 
 O Tamanho da Terra
-------------------
+==================
 
 A primeira estimativa cientificamente sólida do tamanho do esfera terrestre foi feita por Eratóstenes (275-195 AC), que era o bibliotecário-chefe em Alexandria, uma colônia grega no Egito durante o terceiro século AC. Eratóstenes tinha dito que na cidade de Syene (moderna Assuão - Egito) raios do meio-dia do sol no dia de verão brilhou verticalmente e foram capazes de iluminar os fundos dos poços, enquanto no mesmo dia em Alexandria, sombras foram lançadas. Eratóstenes observou que no solstício de verão os raios do sol faziam um ângulo de um quinquagésimo de um círculo :math:`(360^\circ/50=7.2^\circ)` com a vertical em Alexandria, como ilustra a :numref:`fig_raio`.
 
@@ -26,7 +26,7 @@ está na verdade sobre meio grau ao norte do trópico de Câncer. Eratóstenes s
 As estimativas do comprimento de um grau de meridiano foram feita no oitavo século DC, durante a dinastia Tang na China, e no nono século DC por astrônomos árabes na Mesopotâmia. Pouco progresso foi feito na Europa até o início do século XVII. Em 1662, a Royal Society foi fundada em Londres e em 1666 a Académie Royale des Sciences foi fundada em Paris. Ambas as organizações forneceu apoio e impulso à revolução científica. A invenção do telescópio permitiu levantamento geodésicas mais precisas. Em 1671, um astrônomo francês, Jean Picard (1620–1682), completou um levantamento preciso por triangulação do comprimento de um grau de arco meridiano. Doa seus resultados, o raio da Terra foi calculado em 6372 km, notavelmente perto do valor moderno de 6371 km.
 
 Forma da Terra
---------------
+==============
 
 Em 1672, outro astrônomo francês, Jean Richer, foi enviado por Louis XIV para fazer observações astronômicas sobre o ilha equatorial de Caiena. Ele descobriu que um pêndulo de relógio de precisão, que havia sido ajustado em Paris precisamente para bater em segundos, estava perdendo cerca de dois e meio minutos por dia, ou seja, o seu período foi agora demasiado longo. O erro foi muito grande para ser explicado pela imprecisão do instrumento. A observação despertou muito interesse e especulação, mas só foi explicado cerca de 15 anos mais tarde por Sir Isaac Newton em termos de suas leis de gravitação universal e movimento.
 
