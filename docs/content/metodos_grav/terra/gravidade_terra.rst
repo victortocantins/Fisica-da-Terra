@@ -40,12 +40,12 @@ exceto no equador e nos polos.
 
 Em uma Terra esférica, não há ambiguidade na forma como definimos a latitude. É o ângulo no centro da Terra entre o raio e o equador, o complemento ao ângulo polar 
 :math:`\theta`. Isso define a latitude geocêntrica :math:`\lambda'`. No entanto, a latitude geográfica em uso comum não é definida dessa maneira. 
-É encontrada pela medição geodésica do ângulo de elevação de uma estrela fixa acima do horizonte. Mas o plano horizontal é tangencial ao elipsoide, não a uma esfera 
+É encontrada pela medição geodésica do ângulo de elevação de uma estrela fixa acima do horizonte. Mas o plano horizontal é tangencial ao elipsóide, não a uma esfera 
 (:numref:`elipsoide`), e a direção vertical (isto é, a direção local da gravidade) intercepta o equador em um ângulo :math:`\lambda` que é ligeiramente maior que a 
 latitude geocêntrica :math:`\lambda'` (:numref:`elipsoide4`). A diferença :math:`(\lambda-\lambda')` é zero no equador e nos polos e atinge um máximo numa latitude 
 de :math:`45^\circ` onde é apenas :math:`0.19^\circ` (em torno de :math:`12'`).
 
-O *elipsoide de Referência Internacional* é a referência padronizada da figura da Terra. O valor teórico da gravidade no elipsoide rotativo pode ser calculada diferenciando o potencial de gravidade (Equação :eq:`eq:0227`). Este produz os componentes radiais e transversais da gravidade, que são então combinados para dar a seguinte fórmula para a gravidade normal ao elipsoide:
+O *elipsóide de Referência Internacional* é a referência padronizada da figura da Terra. O valor teórico da gravidade no elipsóide rotativo pode ser calculada diferenciando o potencial de gravidade (Equação :eq:`eq:0227`). Este produz os componentes radiais e transversais da gravidade, que são então combinados para dar a seguinte fórmula para a gravidade normal ao elipsóide:
 
 .. math::
     g_{\mathrm{n}}=g_{\mathrm{e}}\left(1+\beta_{1} \sin ^{2} \lambda+\beta_{2} \sin ^{2} 2 \lambda\right)
@@ -60,6 +60,8 @@ onde, para a segunda ordem em :math:`f` e :math:`m`,
     \beta_{2} &=\frac{1}{8} f^{2}-\frac{5}{8} \mathrm{fm} \nonumber
     \end{align}
     :label: eq:0231
+    
+    
 .. figure:: ./images/Fig_02.24.png
     :align: center
     :figwidth: 50 %
@@ -69,7 +71,7 @@ onde, para a segunda ordem em :math:`f` e :math:`m`,
     a latitude geográfica :math:`(\lambda)` ligeiramente maior que geocêntrica latitude :math:`(\lambda')`.
 
 A Equação :eq:`eq:0230` é conhecida como a fórmula de gravidade normal. As constantes na fórmula, definidas em 1980 para o *Sistema de Referência Geodésico (GRS80)* ainda em uso comum, são: :math:`g_e= 9.780327\, \text{m}\text{s}^{-2}`; :math:`\beta_1=5.30244\times 10^{-3}`; :math:`\beta_2 = -5.8\times 10^{-6}`. Eles permitem o cálculo da gravidade normal em qualquer latitude com uma precisão de 0.1 mgal. Instrumentos modernos podem medir diferenças de gravidade com precisão ainda maior, neste caso uma fórmula mais exata, com precisão de :math:`0.0001` mgal, 
-pode ser usada. A fórmula da gravidade normal é muito importante na análise das medidas de gravidade na Terra, porque fornece a variação teórica da gravidade normal :math:`(g_n)` com a latitude na superfície do elipsoide de referência.
+pode ser usada. A fórmula da gravidade normal é muito importante na análise das medidas de gravidade na Terra, porque fornece a variação teórica da gravidade normal :math:`(g_n)` com a latitude na superfície do elipsóide de referência.
 
 A gravidade normal é expressa em termos de :math:`g_e`, o valor da gravidade no equador. Os termos de segunda ordem :math:`f^2`, :math:`m^2` e :math:`fm` são cerca de 300 vezes menores que os termos de primeira ordem :math:`f` e :math:`m`. A constante :math:`\beta_2` é cerca de 1000 vezes menor que :math:`\beta_1`. Se descartarmos termos de segunda ordem e usarmos 
 :math:`\lambda = 90^\circ`, o valor da gravidade normal no polo é :math:`g_p= g_e (1+\beta_1)`, então, reorganizando e retendo apenas termos de primeira ordem, obtemos

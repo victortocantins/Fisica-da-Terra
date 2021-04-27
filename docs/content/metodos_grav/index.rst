@@ -1,5 +1,5 @@
-A Figura da Terra e Anomalias
-=============================
+A Figura da Terra e Anomalias Gravimétricas
+-------------------------------------------
 
 **Conteúdo:**
 
