@@ -3,8 +3,8 @@ Medidas da Gravidade e Redução
 
 Medidas da grvaidade são feitas com um gravímetro em lugares geodeticamente localizados sobre terra ou sobre plataformas giroscopicamente estabilizadas em levantamentos marinho ou aéreo. Os dados de gravidade são reduzidos para um elipsóide de referência para correções em latitude e altitude dos locais de medidas e as atrações da topografia circundante. Uma anomalia gravimétrica residual é feita por estruturas subsuperficiais. Nós distiguimos dois tipos de anomalias: anomalias ar livre (free-air) nãosão corrigidas para as densidades locais das rochas, que são necessárias para definir anomalias Bouger.
 
-Intodução
-=========
+Introdução
+==========
 
 O valor médio da gravidade na superfície da Terra é de aproximadamente :math:`9.80\,\mathrm{m}\mathrm{s}^{-2}` ou :math:`980000\,\mathrm{mgal}`. A rotação e o achatamento da Terra fazem com que a gravidade aumente em aproximadamente :math:`5300\,\mathrm{mgal}`, do equador ao polo, o que é uma variação de apenas cerca de :math:`0.5\%`. Assim, as medidas de gravidade são de dois tipos. A primeira corresponde à determinação da magnitude absoluta da gravidade em qualquer lugar; e a segunda consiste em medir a mudança na gravidade de um lugar para outro. Em estudos geofísicos, especialmente na prospecção por gravidade, é necessário medir com precisão as variações na gravidade causadas por estruturas subterrâneas. Estes requerem uma sensibilidade instrumental da ordem de :math:`0.01\,\mathrm{mgal}`. É muito difícil projetar um instrumento para medir o valor absoluto da gravidade que tem essa alta precisão e que também é portátil o suficiente para ser usado facilmente em diferentes lugares. O levantamento de gravidade é geralmente realizado com um instrumento portátil chamado gravímetro, que determina a variação da gravidade em relação a um ou mais locais de referência. Em levantamentos de gravidade, as variações relativas determinadas com um gravímetro podem ser convertidas em valores absolutos por calibração com medições absolutas feitas em estações selecionadas.
 
