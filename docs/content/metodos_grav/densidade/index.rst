@@ -90,7 +90,7 @@ O rearranjo desta equação fornece a densidade :math:`\rho` do material entre o
     \end{equation}
     :label: eq:0247
 
-Se as medições da gravidade do poço são feitas com uma precisão de :math:`\pm 0.01\; \mathrm{mgal}` a uma separação de cerca de :math:`10\;\mathrm{m}`, a densidade do material perto do poço pode ser determinada com uma precisão de cerca de :math:`\pm 10\; \mathrm{kg}\,\mathrm{m}^{-3}`. Mais de :math:`90 \%` da variação na gravidade do poço é devido ao material dentro de um raio de cerca de $5\Delta h$ do poço (cerca de :math:`50\,\mathrm{m}` para uma distância :math:`\Delta h \approx 10\mathrm{m}` entre os níveis de medição). Isso é muito maior do que a faixa lateral penetrada pelo perfil gama-gama. Como resultado, os efeitos relacionados ao poço em si não são importantes.
+Se as medições da gravidade do poço são feitas com uma precisão de :math:`\pm 0.01\; \mathrm{mgal}` a uma separação de cerca de :math:`10\;\mathrm{m}`, a densidade do material perto do poço pode ser determinada com uma precisão de cerca de :math:`\pm 10\; \mathrm{kg}\,\mathrm{m}^{-3}`. Mais de :math:`90 \%` da variação na gravidade do poço é devido ao material dentro de um raio de cerca de :math:`5\Delta h` do poço (cerca de :math:`50\,\mathrm{m}` para uma distância :math:`\Delta h \approx 10\mathrm{m}` entre os níveis de medição). Isso é muito maior do que a faixa lateral penetrada pelo perfil gama-gama. Como resultado, os efeitos relacionados ao poço em si não são importantes.
 
 
 Método de Nettleton para Densidade Próxima da Superfície

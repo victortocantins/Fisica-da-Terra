@@ -1,6 +1,6 @@
 .. _Terra_index:
 
-A Fígura da Terra
+A Figura da Terra
 -----------------
 Neste capítulo seguimos o livro de :cite:`lowrie_2007`, apresentaremos o conceito de gravidade, anomalias gravimétricas, 
 isostasia e reologia que são importantes tanto na geofísica global quanto na geofísica aplicada aos métodos gravimétricos.
